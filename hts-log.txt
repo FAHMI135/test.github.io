@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Jan 2024 22:09:17 at https://indahonline.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://indahonline.com/ -O1 "C:\Users\akunl\OneDrive\Dokumen\footer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:14:58	Error: 	"Not Found" (404) at link https://indahonline.com/entemplate/assets/img/inlog/brand.png (from https://indahonline.com/en)
+22:15:34	Error: 	"Not Found" (404) at link https://indahonline.com/news/details/`https://www.bukalapak.com/c/tiket-voucher` (from https://indahonline.com/news/details/37)
+22:15:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://indahonline.com/en/information/list/view/60/11 (from https://indahonline.com/en/company/list/information)
+22:15:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://indahonline.com/en/news/details/72 (from https://indahonline.com/en/company/list/news)
+22:16:09	Error: 	"Not Found" (404) at link https://indahonline.com/en/news/details/`https://www.bukalapak.com/c/tiket-voucher` (from https://indahonline.com/en/news/details/37)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 53 seconds : 610 links scanned, 604 files written (51120544 bytes overall) [39026531 bytes received at 94495 bytes/sec], 15980631 bytes transferred using HTTP compression in 235 files, ratio 22%, 29.2 requests per connection
+(3 errors, 2 warnings, 0 messages)

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+indahonline.com	TRUE	/	FALSE	1999999999	_IndahOnlineFrontEnd	5j0q3do2bnf62thdea5msa1icv
+indahonline.com	TRUE	/	FALSE	1999999999	_csrf	ec18aa1f42bd1a79c9c7420f678d3aa523dc26d1154cffd80f961b4d64f34117a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22-DkgycXyaDCX5X8mwM5wyNhEV4HnVy2H%22%3B%7D
+indahonline.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
